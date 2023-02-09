@@ -2,7 +2,7 @@ using System;
 using System.Globalization;
 
 
-namespace ExerciciosPropostos
+namespace For02
 {
     class Program
     {
