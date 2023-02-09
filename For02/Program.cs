@@ -10,7 +10,7 @@ namespace For02
         {
 
             //02
-            /*int N = int.Parse(Console.ReadLine());
+            int N = int.Parse(Console.ReadLine());
 
             int[] vet = new int[N];
 
@@ -34,7 +34,7 @@ namespace For02
                 }
             }
 
-            Console.Write(quantidade);*/
+            Console.Write(quantidade);
 
         }
     }
